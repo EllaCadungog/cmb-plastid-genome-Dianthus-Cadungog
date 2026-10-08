@@ -7,4 +7,9 @@ Student Name: Ella Pearl V. Cadungog
 Program: BS Biology
 Subject: Cell and Molecular Biology 
 
+## Chosen Genus and Species ##
+* First bullet Genus: Dianthus
+* Second bullet Species: *Dianthus caryophyllus*
+
+## 
 
