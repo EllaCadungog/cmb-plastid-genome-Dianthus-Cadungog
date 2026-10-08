@@ -32,7 +32,7 @@
 | | Large Ribosomal Subunits | rpl14, rpl16, rpl20, rpl22, rpl23, rpl32, rpl33, rpl36 |
 | **NADH Dehydrogenase** | NDH Complex | ndhA, ndhB, ndhC, ndhD, ndhE, ndhF, ndhG, ndhH, ndhI, ndhJ, ndhK |
 | **Other Functions & Features** | Protease / Maturase | clpP, matK |
-| | Protein-coding genes | ycf1, ycf2, ycf3, ycf4 |
+| | Protein-coding genes | ycf2, ycf3, ycf4 |
 
 > **Note:** The *D. caryophyllus* plastome contains 83 protein-coding genes. The rpl2 gene should not be included as a protein-coding gene for this species because comparative analysis specifically reports that *D. caryophyllus* lacks rpl2.
 
