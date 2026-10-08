@@ -1,4 +1,3 @@
-
 ## Lab Title: Visualize Plastid Genome Structure ##
 
 **Student name:** Ella Pearl V. Cadungog
@@ -7,7 +6,7 @@
 
 **Scientific Name:** *Dianthus caryophyllus* (Carnation)  
 **NCBI Accession Number:** NC_039650.1  
-**Plastid Genome Length:** 149,604 bp  
+**Plastid Genome Length:** 147,604 bp  
 **Source of Genome File:** NCBI Nucleotide Database (GenBank Format / FASTA)  
 **Visualization Software:** OrganellarGenomeDRAW (OGDRAW v1.3.1)
 
@@ -45,11 +44,11 @@ To generate the circular genome map for *Dianthus caryophyllus*, I completed the
 
 ![Dianthus caryophyllus plastid genome map](figures/01_plastid_genome_map.png)
 
-**Figure 1:** Circular genome map of the *Dianthus caryophyllus* chloroplast genome (149,604 bp) generated using OGDRAW.
+**Figure 1:** Circular genome map of the *Dianthus caryophyllus* chloroplast genome (147,604 bp) generated using OGDRAW.
 
 ## Structural Characterization & Observations ##
 
-The *Dianthus caryophyllus* plastid genome displays a typical quadripartite circular structure spanning 149,604 base pairs. It is divided into a Large Single-Copy (LSC) region, a Small Single-Copy (SSC) region, and two identical Inverted Repeat regions (IRa and IRb) that physically separate the LSC and SSC regions. The LSC region contains the majority of genes involved in photosynthesis, including psb, psa, and rbcL genes, as well as genes involved in transcription and gene expression such as rpo subunit genes and ribosomal protein genes. The SSC region is primarily characterized by the ndh gene family, which encodes components of the NADH dehydrogenase complex involved in photosynthetic electron transport. The duplicate IRa and IRb regions contain identical copies of the ribosomal RNA genes, including rrn4.5, rrn5, rrn16, and rrn23, together with duplicated ribosomal protein genes and selected tRNAs. The inner GC content graph indicates variation in GC content across the plastid genome, with relatively elevated GC levels within the IR regions associated with the presence of ribosomal RNA genes.
+The *Dianthus caryophyllus* plastid genome displays a typical quadripartite circular structure spanning 147,604 base pairs. It is divided into a Large Single-Copy (LSC) region, a Small Single-Copy (SSC) region, and two identical Inverted Repeat regions (IRa and IRb) that physically separate the LSC and SSC regions. The LSC region contains the majority of genes involved in photosynthesis, including psb, psa, and rbcL genes, as well as genes involved in transcription and gene expression such as rpo subunit genes and ribosomal protein genes. The SSC region is primarily characterized by the ndh gene family, which encodes components of the NADH dehydrogenase complex involved in photosynthetic electron transport. The duplicate IRa and IRb regions contain identical copies of the ribosomal RNA genes, including rrn4.5, rrn5, rrn16, and rrn23, together with duplicated ribosomal protein genes and selected tRNAs. The inner GC content graph indicates variation in GC content across the plastid genome, with relatively elevated GC levels within the IR regions associated with the presence of ribosomal RNA genes.
 
 ## Lab Answers ##
 
