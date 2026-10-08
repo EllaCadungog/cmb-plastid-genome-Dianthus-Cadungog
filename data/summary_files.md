@@ -48,7 +48,6 @@
 | rpl16 | Ribosomal Protein | 1 Intron | Cis-splicing. |
 | ndhB | NADH Dehydrogenase | 1 Intron | Cis-splicing; duplicated in the IR regions. |
 | ndhA | NADH Dehydrogenase | 1 Intron | Cis-splicing. |
-| ycf1 | Protein-coding gene | 1 Intron | Cis-splicing. |
 | ycf3 | Photosystem Assembly | 2 Introns | Multi-intron gene. |
 | clpP | Protease | 2 Introns | Multi-intron gene. |
 | rps12 | Ribosomal Protein | 2 Introns | Trans-spliced gene with exons located in separate genome regions. |
