@@ -23,7 +23,7 @@ Analysis and characterization of the complete chloroplast genome of *Dianthus ca
 
 ## Date Retrieved
 
-**Date Retrieved:** October 8, 2026
+**Date Retrieved:** October 1, 2026
 
 ## Genome Size and Plastome Summary
 
