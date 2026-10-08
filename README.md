@@ -11,5 +11,8 @@ Subject: Cell and Molecular Biology
 * First bullet Genus: Dianthus
 * Second bullet Species: *Dianthus caryophyllus*
 
-## 
+## NCBI Accession and Source Links ##
+* NCBI RefSeq Accession: NC_039650.1
+* NCBI Nucleotide Record:
+* NCBI Genbank Record: 
 
