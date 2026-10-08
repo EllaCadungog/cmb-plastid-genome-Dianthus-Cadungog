@@ -42,7 +42,9 @@ To generate the circular genome map for *Dianthus caryophyllus*, I completed the
 
 ### Plastid genome map ##
 
-![Dianthus caryophyllus plastid genome map](figures/01_plastid_genome_map.png)
+### Figure 1: Plastid Genome Map
+*Description: The circular plastid genome map of *Dianthus caryophyllus* generated using OrganellarGenomeDRAW (OGDRAW), showing the annotated genes and genomic organization.*
+* [View Figure 1 (Plastid Genome Map)](figures/Dianthus_caryophyllus_plastid_map.png)
 
 **Figure 1:** Circular genome map of the *Dianthus caryophyllus* chloroplast genome (147,604 bp) generated using OGDRAW.
 
