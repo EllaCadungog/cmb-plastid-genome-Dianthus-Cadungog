@@ -8,8 +8,8 @@ Program: BS Biology
 Subject: Cell and Molecular Biology 
 
 ## Chosen Genus and Species ##
-* First bullet Genus: Dianthus
-* Second bullet Species: *Dianthus caryophyllus*
+* Genus: Dianthus
+* Species: *Dianthus caryophyllus*
 
 ## NCBI Accession and Source Links ##
 * NCBI RefSeq Accession: NC_039650.1
