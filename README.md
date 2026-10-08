@@ -23,7 +23,7 @@ Analysis and characterization of the complete chloroplast genome of *Dianthus ca
 
 ## Date Retrieved
 
-**Date Retrieved:** October 1, 2026
+**Date Retrieved:** October 8, 2026
 
 ## Genome Size and Plastome Summary
 
@@ -31,10 +31,10 @@ The chloroplast genome of *Dianthus caryophyllus* is a complete circular plastom
 
 The main structural regions of the plastome are:
 
-* **Large Single-Copy (LSC) region:** [Insert value from NCBI/Galaxy]
-* **Small Single-Copy (SSC) region:** [Insert value from NCBI/Galaxy]
-* **Inverted Repeat A (IRa):** [Insert value from NCBI/Galaxy]
-* **Inverted Repeat B (IRb):** [Insert value from NCBI/Galaxy]
+* **Large Single-Copy (LSC) region:** 84,775 bp
+* **Small Single-Copy (SSC) region:** 17,102 bp
+* **Inverted Repeat A (IRa):** 22,863 bp
+* **Inverted Repeat B (IRb):** 22,863 bp
 
 The plastome contains protein-coding genes, transfer RNA (tRNA) genes, and ribosomal RNA (rRNA) genes that contribute to photosynthesis, transcription, translation, and other essential plastid functions.
 
@@ -66,9 +66,9 @@ Galaxy recognized the uploaded dataset as a FASTA file. The dataset was renamed 
 
 | Parameter | Value |
 |---|---|
-| Genome Length | [Insert value] bp |
+| Genome Length | 147,604 bp |
 | Number of Sequences | 1 |
-| GC Content | [Insert value] % |
+| GC Content | 36.30 % |
 
 ## Gene Content and Important Observations
 
@@ -76,10 +76,10 @@ Galaxy recognized the uploaded dataset as a FASTA file. The dataset was renamed 
 
 | Category | Count |
 |---|---:|
-| Total Unique Genes | [Insert value] |
-| Protein-Coding Genes | [Insert value] |
-| tRNA Genes | [Insert value] |
-| rRNA Genes | [Insert value] |
+| Total Unique Genes | 123 |
+| Protein-Coding Genes | 83 |
+| tRNA Genes | 34 |
+| rRNA Genes | 6 |
 
 ### Important Observations
 
@@ -101,8 +101,11 @@ Several genes contain introns, including:
 * **rpl16**
 * **ndhB**
 * **ndhA**
+* **ycf1**
 * **ycf3**
 * **clpP**
+
+Among these genes, **rps16, atpF, rpoC1, petB, petD, rpl16, ndhB, ndhA, and ycf1** contain one intron, while **ycf3 and clpP** contain two introns.
 
 The plastome of *Dianthus caryophyllus* belongs to the family **Caryophyllaceae**. Therefore, its plastid genome characteristics are interpreted in the context of Caryophyllaceae rather than the grass-specific plastome features found in *Oryza sativa*.
 
